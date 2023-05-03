@@ -24,9 +24,9 @@ import threejs from "./tech/threejs.svg";
 import bankicon from "./company/bankicon.svg";
 import bankicon_white from "./company/bankicon_white.svg";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import hobby_site_1 from "./hobby_site_1.png";
+import hobby_site_2 from "./hobby_site_2.png";
+import hobby_site_3 from "./hobby_site_3.png";
 
 export {
   logo,
@@ -52,7 +52,7 @@ export {
   threejs,
   bankicon,
   bankicon_white,
-  carrent,
-  jobit,
-  tripguide,
+  hobby_site_1,
+  hobby_site_2,
+  hobby_site_3
 };

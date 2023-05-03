@@ -17,9 +17,9 @@ import {
     docker,
     bankicon,
     bankicon_white,
-    carrent,
-    jobit,
-    tripguide,
+    hobby_site_1,
+    hobby_site_2,
+    hobby_site_3,
     threejs,
 } from "../assets";
 
@@ -196,67 +196,67 @@ const testimonials = [
 
 const projects = [
     {
-        name: "Car Rent",
+        name: "Hobby Sea Side Travel",
         description:
-            "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+            "This is a responsive design exercise to create a fake travel/beach themed site. Using media queries to cover break point design. Same with site navigation for media queries.",
         tags: [
             {
-                name: "react",
+                name: "html",
                 color: "blue-text-gradient",
             },
             {
-                name: "mongodb",
+                name: "responsive design",
                 color: "green-text-gradient",
             },
             {
-                name: "tailwind",
+                name: "javascript",
                 color: "pink-text-gradient",
             },
         ],
-        image: carrent,
-        source_code_link: "https://github.com/",
+        image: hobby_site_1,
+        source_code_link: "https://github.com/susgupta/responsive_travel_site",
     },
     {
-        name: "Job IT",
+        name: "Resposive Slide Video Site",
         description:
-            "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+            "This is just a basic design exercise for landing page with video looping style background.  This adds mutiple video 'slides' and a different overlay technique.",
         tags: [
             {
-                name: "react",
+                name: "html",
                 color: "blue-text-gradient",
             },
             {
-                name: "restapi",
+                name: "responsive design",
                 color: "green-text-gradient",
             },
             {
-                name: "scss",
+                name: "javascript",
                 color: "pink-text-gradient",
             },
         ],
-        image: jobit,
-        source_code_link: "https://github.com/",
+        image: hobby_site_2,
+        source_code_link: "https://github.com/susgupta/html_video_responsive_site",
     },
     {
-        name: "Trip Guide",
+        name: "HTML Dynamic Video Background Example",
         description:
-            "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+            "This is just a basic design exercise for landing page with video looping style background.",
         tags: [
             {
-                name: "nextjs",
+                name: "html",
                 color: "blue-text-gradient",
             },
             {
-                name: "supabase",
+                name: "responsive design",
                 color: "green-text-gradient",
             },
             {
-                name: "css",
+                name: "javascript",
                 color: "pink-text-gradient",
             },
         ],
-        image: tripguide,
-        source_code_link: "https://github.com/",
+        image: hobby_site_3,
+        source_code_link: "https://github.com/susgupta/html_video_background",
     },
 ];
 
