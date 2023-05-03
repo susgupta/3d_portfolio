@@ -21,10 +21,8 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import bankicon from "./company/bankicon.svg";
+import bankicon_white from "./company/bankicon_white.svg";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -52,10 +50,8 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
+  bankicon,
+  bankicon_white,
   carrent,
   jobit,
   tripguide,
