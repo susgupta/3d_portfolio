@@ -134,7 +134,7 @@ const experiences = [
         date: "May 2013 - Apr 2018",
         points: [
             "Lead developer for .NET application for frontline applications.",
-            "Created and implemented using C# an application that integrates and faciltates coordination among other frontline banking applications.",
+            "Created and implemented using C# a platform that integrates and faciltates coordination among other frontline banking applications.",
             "Leveraged development tools with .NET/C# and Visual Studio.",
             "Designed and developed a back-end system using Sprint REST MVC framework."
         ],
